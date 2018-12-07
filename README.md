@@ -1,3 +1,48 @@
+Build a demo application 
+    - react(UI),
+    - react-router(SPA routing)
+    - redux(data flow and state management)
+    - react-redux (connection between react and redux)
+    - redux-saga ( server side /api requests, place holder for redux ) 
+
+
+
+First run 
+
+```bash
+npx create-react-app media-lib
+```
+
+Install dependencies and remove default applications
+
+```bash
+# install dependencies
+npm install --save prop-types react-router@3.2 redux react-redux redux-saga
+# remove the default application
+rm -rf src/** 
+
+```
+
+
+This is a good article https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
