@@ -1,4 +1,5 @@
 Build a demo application 
+
     - react(UI),
     - react-router(SPA routing)
     - redux(data flow and state management)
