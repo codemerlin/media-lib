@@ -1,10 +1,10 @@
 Build a demo application 
 
-    - react(UI),
-    - react-router(SPA routing)
-    - redux(data flow and state management)
-    - react-redux (connection between react and redux)
-    - redux-saga ( server side /api requests, place holder for redux ) 
+- react(UI),
+- react-router(SPA routing)
+- redux(data flow and state management)
+- react-redux (connection between react and redux)
+- redux-saga ( server side /api requests, place holder for redux ) 
 
 
 
